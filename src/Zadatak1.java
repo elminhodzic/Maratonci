@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Zadatak1 {
 
 	public static void main(String[] args) throws FileNotFoundException, IOException, InputMismatchException {
-		// TODO Auto-generated method stub
+		
 
 		File fAJL = new File("maraton.txt");
 
